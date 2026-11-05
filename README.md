@@ -51,12 +51,12 @@ To explore the different role-based dashboards, you can log in using any of the 
 If you want to run this project on your own machine:
 
 1. **Clone the repository**
-   \\ash
+   \\bash
    git clone https://github.com/mohamedhanifa27/NLC-GATEPASS-SYSTEM.git
    cd NLC-GATEPASS-SYSTEM
    \
 2. **Install Dependencies**
-   \\ash
+   \\bash
    pip install -r requirements.txt
    \
 3. **Set up Environment Variables**
@@ -66,11 +66,11 @@ If you want to run this project on your own machine:
    JWT_SECRET_KEY=your_secure_random_string
    \
 4. **Initialize the Database**
-   \\ash
+   \\bash
    python init_db.py
    \
 5. **Run the Server**
-   \\ash
+   \\bash
    python app.py
    \   Navigate to \http://localhost:5000\ in your browser.
 
