@@ -13,7 +13,7 @@ This project completely transitions the traditional paper-based gate pass workfl
 ## 🚀 Live Demo
 
 You can test the fully functional live application here:
-**[Live Website - Railway Deployment](https://nlc-integrated-gatepass-system.onrender.com)**
+**[Live Website - Render Deployment](https://nlc-integrated-gatepass-system.onrender.com)**
 
 > **Note:** The application is hosted using Railway''s services. If the instance has spun down due to inactivity, the initial load may take a few moments.
 
@@ -22,7 +22,7 @@ To explore the different role-based dashboards, you can log in using any of the 
 
 | Role | Email | Password |
 | :--- | :--- | :--- |
-| **Admin** | \dmin@nlcindia.com\ | \password123\ |
+| **Admin** | \admin@nlcindia.com\ | \password123\ |
 | **Manager** | \manager@nlcindia.com\ | \password123\ |
 | **Security** | \security@nlcindia.com\ | \password123\ |
 | **Employee** | \employee@nlcindia.com\ | \password123\ |
@@ -44,7 +44,7 @@ To explore the different role-based dashboards, you can log in using any of the 
 * **Backend**: Python, Flask, Flask-JWT-Extended, PyMySQL
 * **Database Engine**: MySQL 
 * **ORM**: SQLAlchemy
-* **Deployment Infrastructure**: Railway (Managed MySQL Database & Python Web Service)
+* **Deployment Infrastructure**: Render.com (Managed MySQL Database & Python Web Service)
 
 ## 💻 Running Locally
 
