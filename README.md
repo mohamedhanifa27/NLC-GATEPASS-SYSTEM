@@ -15,17 +15,17 @@ This project completely transitions the traditional paper-based gate pass workfl
 You can test the fully functional live application here:
 **[Live Website - Render Deployment](https://nlc-integrated-gatepass-system.onrender.com)**
 
-> **Note:** The application is hosted using Railway''s services. If the instance has spun down due to inactivity, the initial load may take a few moments.
+> **Note:** The application is hosted using Renders's services. If the instance has spun down due to inactivity, the initial load may take a few moments.
 
 ### Demo Credentials
 To explore the different role-based dashboards, you can log in using any of the following test accounts:
 
 | Role | Email | Password |
 | :--- | :--- | :--- |
-| **Admin** | \admin@nlcindia.com\ | \password123\ |
-| **Manager** | \manager@nlcindia.com\ | \password123\ |
-| **Security** | \security@nlcindia.com\ | \password123\ |
-| **Employee** | \employee@nlcindia.com\ | \password123\ |
+| **Admin** | admin@nlcindia.com | password123 |
+| **Manager** | manager@nlcindia.com | password123 |
+| **Security** | security@nlcindia.com | password123 |
+| **Employee** | employee@nlcindia.com | password123 |
 
 ---
 
